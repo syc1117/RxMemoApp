@@ -4,4 +4,4 @@
 2. RxSwift, RxCocoa, Action, RxCoreData 사용
 3. MVVM 패턴 사용
 4. 메모 CRUD, 공유 기능 구현
-5. storyBoard 
+5. storyBoard 사용
